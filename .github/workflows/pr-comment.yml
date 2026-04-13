@@ -13,7 +13,7 @@ jobs:
           gh pr comment ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --body "Thanks for submitting your component!
 
           Don't forget to complete your submission on the gallery website:
-          https://angelikretool.github.io/gallery-frontend/
+          https://customcomponents.retool.com/
 
           Your component won't appear in the gallery until the form is submitted and reviewed.
 
