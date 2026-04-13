@@ -83,7 +83,7 @@ Once your files are added, commit them to your fork and open a pull request from
 
 After your pull request is open, go to the gallery website and click **Submit Component**:
 
-https://retoolcustomcomponents.netlify.app/
+https://customcomponents.retool.com/
 
 You will need to fill in:
 
